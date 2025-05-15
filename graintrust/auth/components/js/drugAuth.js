@@ -1,5 +1,5 @@
 const CONFIG = {
-    CONTRACT_ADDRESS: "0x1fbce5764d704aefabfacd1602c8b5116abc1fcb",
+    CONTRACT_ADDRESS: "0x8595a3ed577da853c75d5feb2c3e0ea160723bb1",
     NETWORK_ID: 11155111,
     DRUG_CODE_FORMAT: /^\d{4,5}-\d{3,4}-\d{2}$/,
 };
