@@ -1,6 +1,6 @@
 let web3;
         let contract;
-        const contractAddress = "0x1fbce5764d704aefabfacd1602c8b5116abc1fcb";
+        const contractAddress = "0x8595a3ed577da853c75d5feb2c3e0ea160723bb1";
         const abi = [
             {"inputs":[{"internalType":"address","name":"_address","type":"address"},{"internalType":"string","name":"_companyname","type":"string"}],"name":"setCompany","outputs":[],"stateMutability":"nonpayable","type":"function"},
             {"inputs":[{"internalType":"string","name":"_drugcode","type":"string"},{"internalType":"string","name":"_drugname","type":"string"},{"internalType":"string","name":"_dosage","type":"string"},{"internalType":"string","name":"_sideeffect","type":"string"},{"internalType":"string","name":"_proddate","type":"string"},{"internalType":"string","name":"_expirydate","type":"string"}],"name":"addDrug","outputs":[],"stateMutability":"nonpayable","type":"function"},
